@@ -1,9 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with reactproject
 
 ## Available Scripts
-
+click here to check the work of website:http://entranceupdates.epizy.com/
 In the project directory, you can run:
 
 ### `npm start`
